@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/star-hands/static/css/main.c195fa60.css",
-    "main.js": "/star-hands/static/js/main.6c5f31ba.js",
+    "main.js": "/star-hands/static/js/main.ab56eaed.js",
     "static/media/handpose-classifier-model.txt": "/star-hands/static/media/handpose-classifier-model.c85ea74b97702b10fd9f.txt",
     "static/media/RobotExpressive.glb": "/star-hands/static/media/RobotExpressive.06f9d5cfb2ed5af3e120.glb",
     "static/media/noise.png": "/star-hands/static/media/noise.b2c85f53bced5c500eca.png",
@@ -24,6 +24,6 @@
   },
   "entrypoints": [
     "static/css/main.c195fa60.css",
-    "static/js/main.6c5f31ba.js"
+    "static/js/main.ab56eaed.js"
   ]
 }
