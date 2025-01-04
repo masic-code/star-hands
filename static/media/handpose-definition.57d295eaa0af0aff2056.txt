@@ -1,0 +1,52 @@
+[
+    {
+        "id": "finger0",
+        "name": "グー",
+        "enableStandby": false
+    },
+    {
+        "id": "finger1",
+        "name": "1本指",
+        "enableStandby": false
+    },
+    {
+        "id": "finger2",
+        "name": "2本指",
+        "enableStandby": true
+    },
+    {
+        "id": "finger3",
+        "name": "3本指",
+        "enableStandby": false
+    },
+    {
+        "id": "finger4",
+        "name": "4本指",
+        "enableStandby": false
+    },
+    {
+        "id": "finger5",
+        "name": "5本指",
+        "enableStandby": false
+    },
+    {
+        "id": "catch",
+        "name": "掴む",
+        "enableStandby": false
+    },
+    {
+        "id": "good",
+        "name": "いいね",
+        "enableStandby": false
+    },
+    {
+        "id": "gun_reload",
+        "name": "射撃準備",
+        "enableStandby": false
+    },
+    {
+        "id": "gun_shot",
+        "name": "射撃",
+        "enableStandby": false
+    }
+]
