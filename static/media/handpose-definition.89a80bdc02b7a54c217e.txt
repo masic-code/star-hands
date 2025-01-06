@@ -1,0 +1,50 @@
+[
+    {
+        "id": "finger0",
+        "name": "グー"
+    },
+    {
+        "id": "finger1",
+        "name": "1本指"
+    },
+    {
+        "id": "finger2",
+        "name": "2本指"
+    },
+    {
+        "id": "finger3",
+        "name": "3本指"
+    },
+    {
+        "id": "finger4",
+        "name": "4本指"
+    },
+    {
+        "id": "finger5",
+        "name": "5本指"
+    },
+    {
+        "id": "catch",
+        "name": "掴む"
+    },
+    {
+        "id": "good",
+        "name": "いいね"
+    },
+    {
+        "id": "gun_reload",
+        "name": "射撃準備"
+    },
+    {
+        "id": "gun_shot",
+        "name": "射撃"
+    },
+    {
+        "id": "deko_ready",
+        "name": "デコピン準備"
+    },
+    {
+        "id": "deko_push",
+        "name": "デコピン"
+    }
+]

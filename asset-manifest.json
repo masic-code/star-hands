@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/star-hands/static/css/main.c195fa60.css",
-    "main.js": "/star-hands/static/js/main.ab56eaed.js",
-    "static/media/handpose-classifier-model.txt": "/star-hands/static/media/handpose-classifier-model.c85ea74b97702b10fd9f.txt",
+    "main.js": "/star-hands/static/js/main.c283ce9c.js",
+    "static/media/handpose-classifier-model.txt": "/star-hands/static/media/handpose-classifier-model.c6d714b534be2af319cb.txt",
     "static/media/RobotExpressive.glb": "/star-hands/static/media/RobotExpressive.06f9d5cfb2ed5af3e120.glb",
     "static/media/noise.png": "/star-hands/static/media/noise.b2c85f53bced5c500eca.png",
     "static/media/game-over.mp3": "/star-hands/static/media/game-over.07ce98b32dfd15f10443.mp3",
@@ -19,11 +19,12 @@
     "static/media/enemy-appearance1.mp3": "/star-hands/static/media/enemy-appearance1.64cac8ad9cc19b7082d6.mp3",
     "static/media/normal-shot.mp3": "/star-hands/static/media/normal-shot.176f6edee26dd4e807fa.mp3",
     "static/media/hit.mp3": "/star-hands/static/media/hit.7aeec218b7fcdfeada28.mp3",
-    "static/media/handpose-definition.txt": "/star-hands/static/media/handpose-definition.57d295eaa0af0aff2056.txt",
-    "index.html": "/star-hands/index.html"
+    "static/media/deko-push.mp3": "/star-hands/static/media/deko-push.3787eb2f40e6824ff210.mp3",
+    "index.html": "/star-hands/index.html",
+    "static/media/handpose-definition.txt": "/star-hands/static/media/handpose-definition.89a80bdc02b7a54c217e.txt"
   },
   "entrypoints": [
     "static/css/main.c195fa60.css",
-    "static/js/main.ab56eaed.js"
+    "static/js/main.c283ce9c.js"
   ]
 }
